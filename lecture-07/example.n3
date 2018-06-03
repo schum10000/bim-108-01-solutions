@@ -7,6 +7,6 @@
 ex:Wako5UJ_7t a ex:Autor,
         ex:Books ;
     ex:autor "Ernest Hemmingway" ;
-    ex:book "Der alte Mann und das Meer",
-        "The Torrents of Spring" .
+    ex:book "The Torrents of Spring",
+        "TheSpring" .
 
